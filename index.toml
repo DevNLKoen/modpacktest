@@ -299,11 +299,6 @@ hash = "28f53f38c111e3d6aa7f6854fa976a1456f4094dc504a929a6d4bf1f9f8cc30a"
 metafile = true
 
 [[files]]
-file = "mods/forge-config-api-port-fabric.pw.toml"
-hash = "db52b577510efdb6a1620b98e79bce60c2206ca8699513b44fe77ec19892e17d"
-metafile = true
-
-[[files]]
 file = "mods/iceberg-fabric.pw.toml"
 hash = "2ff9b2894dd43471b0f2d1779adcc15150e87c08e1ac9501635a04b975ae7c5c"
 metafile = true
